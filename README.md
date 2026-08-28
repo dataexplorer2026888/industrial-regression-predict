@@ -18,19 +18,13 @@
 - 🛡️ **开发模式**：`dev_mode=True` 只看CV，快速调参不碰Test
 
 ## 项目效果展示
-## 项目效果展示
 
-<p align="center">
-  <img src="06_model_comparison.png" width="700">
-</p>
+![模型对比](06_model_comparison.png)
 
-<p align="center">
-  <img src="05_feature_importance.png" width="700">
-</p>
+![特征重要性](05_feature_importance.png)
 
-<p align="center">
-  <img src="04_residual_diagnostics.png" width="700">
-</p>
+![残差诊断](04_residual_diagnostics.png)
+
 
 ## 🚀 快速开始
 
