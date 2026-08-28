@@ -19,7 +19,6 @@
 
 ## 项目效果展示
 
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/dataexplorer2026888/industrial-regression-predict@main/06_model_comparison.png" width="700" alt="模型对比">
 </p>
