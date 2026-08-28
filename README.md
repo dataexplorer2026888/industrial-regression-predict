@@ -18,9 +18,20 @@
 - 🛡️ **开发模式**：`dev_mode=True` 只看CV，快速调参不碰Test
 
 ## 项目效果展示
-<img src="06_model_comparison.png" width="700">
-<img src="05_feature_importance.png" width="700">
-<img src="04_residual_diagnostics.png" width="700">
+## 项目效果展示
+
+<p align="center">
+  <img src="06_model_comparison.png" width="700">
+</p>
+
+<p align="center">
+  <img src="05_feature_importance.png" width="700">
+</p>
+
+<p align="center">
+  <img src="04_residual_diagnostics.png" width="700">
+</p>
+
 ## 🚀 快速开始
 
 ### 安装依赖
