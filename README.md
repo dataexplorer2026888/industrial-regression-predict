@@ -19,12 +19,17 @@
 
 ## 项目效果展示
 
-![模型对比](06_model_comparison.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dataexplorer2026888/industrial-regression-predict/main/06_model_comparison.png" width="700">
+</p>
 
-![特征重要性](05_feature_importance.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dataexplorer2026888/industrial-regression-predict/main/05_feature_importance.png" width="700">
+</p>
 
-![残差诊断](04_residual_diagnostics.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dataexplorer2026888/industrial-regression-predict/main/04_residual_diagnostics.png" width="700">
+</p>
 
 ## 🚀 快速开始
 
