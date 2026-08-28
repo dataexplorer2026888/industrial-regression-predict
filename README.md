@@ -1,5 +1,7 @@
 # 🏭 工业级回归预测通用模板
 
+【提供定制服务】机器学习建模、数据清洗、自动化分析报告生成。有需求请邮箱联系，支持全流程定制。
+
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![scikit-learn](https://img.shields.io/badge/sklearn-1.3+-orange.svg)](https://scikit-learn.org/)
 
@@ -15,6 +17,10 @@
 - 🚀 **生产级API**：`predict()` 支持批量推理 + 特征自动对齐
 - 🛡️ **开发模式**：`dev_mode=True` 只看CV，快速调参不碰Test
 
+## 项目效果展示
+<img src="06_model_comparison.png" width="700" alt="模型对比排名">
+<img src="05_feature_importance.png" width="700">
+<img src="04_residual_diagnostics.png" width="700">
 ## 🚀 快速开始
 
 ### 安装依赖
@@ -110,5 +116,5 @@ MIT License
 
 - GitHub: [@dataexplorer2026888](https://github.com/dataexplorer2026888)
 - 联系邮箱:1057512884@qq.com
-
+- 声明：为了保护客户隐私和商业机密，完整源代码、数据集及核心算法暂不公开。如需定制开发、技术咨询，请通过以邮箱联系我，确认需求后可详谈。感谢理解！
 
