@@ -19,16 +19,17 @@
 
 ## 项目效果展示
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dataexplorer2026888/industrial-regression-predict/main/06_model_comparison.png" width="700">
+  <img src="https://cdn.jsdelivr.net/gh/dataexplorer2026888/industrial-regression-predict@main/06_model_comparison.png" width="700" alt="模型对比">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dataexplorer2026888/industrial-regression-predict/main/05_feature_importance.png" width="700">
+  <img src="https://cdn.jsdelivr.net/gh/dataexplorer2026888/industrial-regression-predict@main/05_feature_importance.png" width="700" alt="特征重要性">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dataexplorer2026888/industrial-regression-predict/main/04_residual_diagnostics.png" width="700">
+  <img src="https://cdn.jsdelivr.net/gh/dataexplorer2026888/industrial-regression-predict@main/04_residual_diagnostics.png" width="700" alt="残差诊断">
 </p>
 
 ## 🚀 快速开始
