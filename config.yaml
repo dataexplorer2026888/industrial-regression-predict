@@ -1,0 +1,24 @@
+target_col: target
+random_state: 42
+test_size: 0.2
+cv_folds: 5
+n_iter_search: 10
+output_dir: ./artifacts
+dev_mode: false
+verbose: true
+winsorize_limits: {}
+target_transform: log1p
+low_corr_threshold: 0.05
+drop_low_corr: false
+high_corr_threshold: 0.95
+drop_high_corr: false
+skew_correct: true
+skew_threshold: 1.0
+models:
+  - Ridge
+  - Lasso
+  - ElasticNet
+  - RandomForest
+  - GradientBoosting
+  - XGBoost
+feature_engineering: true
