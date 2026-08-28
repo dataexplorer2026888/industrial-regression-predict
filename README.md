@@ -18,7 +18,7 @@
 - 🛡️ **开发模式**：`dev_mode=True` 只看CV，快速调参不碰Test
 
 ## 项目效果展示
-<img src="06_model_comparison.png" width="700" alt="模型对比排名">
+<img src="06_model_comparison.png" width="700">
 <img src="05_feature_importance.png" width="700">
 <img src="04_residual_diagnostics.png" width="700">
 ## 🚀 快速开始
